@@ -1,5 +1,5 @@
-<mxfile host="Electron" pages="5">
-  <diagram name="Example 1" id="llqx0JjEABG1YhY2-ztG">
+<mxfile host="Electron" pages="6">
+  <diagram name="Example (Folk-Fukerson)" id="llqx0JjEABG1YhY2-ztG">
     <mxGraphModel dx="1249" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="1" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1756,6 +1756,14 @@
   </diagram>
   <diagram id="o_gIyWMJsXadPy0kzhKl" name="Ahuja et al. (1988). Problem 13.10">
     <mxGraphModel dx="560" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ER7yDDAHFPdWtQkBu0GL" name="Example (Push-Relabeling)">
+    <mxGraphModel dx="819" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
